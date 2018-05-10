@@ -1,0 +1,14 @@
+uuid: 51f87284-ba76-49f8-9816-3735d86568e1
+name: test-composer-site
+mail: tomm@easternstandard.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
